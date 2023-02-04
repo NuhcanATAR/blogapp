@@ -1,7 +1,7 @@
 # blogapp
 <h1>Fluttter ile Basit Dinamik Bir Blog Uygulaması</h1>
 
-<p> Flutter Firebase Veritabanını Kullanarak Oluşturmuş Olduğum Basit Bir Blog Uygulaması içinde beni hatırla özelliği ve profil resmi ile kayıt olma gibi özellikler bulunuyor, uygulamadak temel amacım firebase veritabanını tam olarak öğrenebilmek amacıyla böyle bir proje yaptım proje detayları aşağıda bulunuyor</p>
+<p> Flutter Firebase Veritabanını Kullanarak Oluşturmuş Olduğum Basit Bir Blog Uygulaması içinde beni hatırla özelliği ve profil resmi ile kayıt olma gibi özellikler bulunuyor, uygulamadaki temel amacım firebase veritabanını tam olarak öğrenebilmek amacıyla böyle bir proje yaptım proje detayları aşağıda bulunuyor</p>
 
 <h5> * Uygulamada Bulunan Özellikler</h5>
 <ul>
