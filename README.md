@@ -71,6 +71,9 @@
   </tr>
 </table>
 
+<h5> * Uygulamada Beni Hatırla Özelliği</h5>
 
-  
+https://user-images.githubusercontent.com/77950761/216764583-2db1957f-796d-4ebe-8ac1-d5c3d4d30317.mp4
+
+
   
